@@ -5,5 +5,5 @@ $router->define([
     'Basics/about' => 'controllers/about.php',
     'Basics/about/culture' => 'controllers/about-culture.php',
     'Basics/contact' => 'controllers/contact.php',
-    'Basics/names' => 'controllers/add-name.php'
+    'Basics/names' => 'controllers/add-name.php' //Only for POST types
 ]);
